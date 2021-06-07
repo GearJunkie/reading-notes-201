@@ -2,6 +2,7 @@
 ## Reading Notes for Code Fellows 201 course:
 - This course is the foundations to software development.
 - My course Instructor is Sara Russert.
+- The majority of my notes are edited and paraphrased from MDN's open source content.
 
 #Table of Contents
 
