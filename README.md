@@ -5,7 +5,7 @@
 
 #Table of Contents
 
-- [Reading Notes 1 - ]()
+- [Reading Notes 1 - ](class-01.md)
 - [Reading Notes 2 - ]()
 - [Reading Notes 3 - ]()
 - [Reading Notes 4 - ]()
