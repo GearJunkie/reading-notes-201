@@ -6,10 +6,10 @@
 
 #Table of Contents
 
-- [Reading Notes 1 - ](class-01.md)
+- [Reading Notes 1 - Introductory HTML and JavaScript](class-01.md)
 - [Reading Notes 2 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 - [Reading Notes 3 - HTML Lists, Control Flow with JS, and the CSS Box Model](class-03.md)
-- [Reading Notes 4 - ](class-04.md)
+- [Reading Notes 4 - HTML Links, CSS Layout, JS Functions](class-04.md)
 - [Reading Notes 5 - ](class-05.md)
 - [Reading Notes 6 - ](class-06.md)
 - [Reading Notes 7 - ](class-07.md)
