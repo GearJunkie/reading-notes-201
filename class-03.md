@@ -3,17 +3,21 @@
 ## Lists:
 - ordered lists <ol>
   1.)
+  
   2.)
+  
   3.)
+
 - unordered lists <ul>
-  -
-  -
-  -
-Definition lists <dl>
+-- 
+--
+--
+
+- definition lists <dl>
   <dt> "definition term"
   <dd> "contains the definition"
   
-Nested lists <ul>
+- nested lists <ul>
                 <li> "bread"
                 <li> "pastries"
                   <ul>
