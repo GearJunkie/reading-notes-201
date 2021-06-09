@@ -1,23 +1,25 @@
 # HTML Lists, Control Flow with JS, and the CSS Box Model:
 
 ## Lists:
-- ordered lists <ol>
+### ordered lists <ol>
   1.)
   
   2.)
   
   3.)
 
-- unordered lists <ul>
--- 
+### unordered lists <ul>
 --
+  
+--
+  
 --
 
-- definition lists <dl>
+### definition lists <dl>
   <dt> "definition term"
   <dd> "contains the definition"
   
-- nested lists <ul>
+### nested lists <ul>
                 <li> "bread"
                 <li> "pastries"
                   <ul>
