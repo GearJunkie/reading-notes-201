@@ -13,4 +13,4 @@
 - [Reading Notes 5 - ](class-05.md)
 - [Reading Notes 6 - ](class-06.md)
 - [Reading Notes 7 - ](class-07.md)
-- [Reading Notes 8 - ](class-08.md)
+- [Reading Notes 8 - More CSS Layout](class-08.md)
