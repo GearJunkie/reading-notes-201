@@ -14,3 +14,4 @@
 - [Reading Notes 6 - ](class-06.md)
 - [Reading Notes 7 - ](class-07.md)
 - [Reading Notes 8 - More CSS Layout](class-08.md)
+- [Reading Notes 9 - Forms & JS Events](class-09.md)
