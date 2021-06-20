@@ -15,3 +15,4 @@
 - [Reading Notes 7 - ](class-07.md)
 - [Reading Notes 8 - More CSS Layout](class-08.md)
 - [Reading Notes 9 - Forms & JS Events](class-09.md)
+- [Reading Notes 10a - Debugging JS](class-10a.md)
