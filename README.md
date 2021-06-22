@@ -16,3 +16,5 @@
 - [Reading Notes 8 - More CSS Layout](class-08.md)
 - [Reading Notes 9 - Forms & JS Events](class-09.md)
 - [Reading Notes 10a - Debugging JS](class-10a.md)
+- [Reading Notes 11 - Assorted Topics](class-11.md)
+- [Reading Notes 12 - <canvas> and Chart.js](class-12.md)
